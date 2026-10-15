@@ -8,7 +8,22 @@
 
 ---
 
-## 🚀 方式一：一键网络安装（强烈推荐 · 复制即装，无需下载）
+## 💻 播放器客户端官方下载 (Windows / 安卓 / Mac)
+
+> 💡 **很多朋友找不到 Windows 电脑版？**
+> 因为官方把电脑端与手机端分在了两个不同仓库（`MusicFree` 为安卓端，`MusicFreeDesktop` 为电脑端）。这里为大家整理了全平台最新版直连下载（已贴心配备国内加速镜像，直接点击即可高速下载）：
+
+| 操作系统 | 推荐版本 | 国内高速镜像下载 (直链推荐) | GitHub 官方原生下载 |
+| :--- | :--- | :---: | :---: |
+| 🪟 **Windows 电脑** | 官方安装包 (`.exe`) | [🚀 点击极速下载 (.exe)](https://ghfast.top/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe) | [官方 Release](https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-setup.exe) |
+| 🪟 **Windows 电脑** | 绿色便携免安装版 (`.zip`) | [🚀 点击极速下载 (.zip)](https://ghfast.top/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-portable.zip) | [官方 Release](https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-win32-x64-portable.zip) |
+| 📱 **Android 安卓手机/平板** | 通用完整版 (`.apk`) | [🚀 点击极速下载 (.apk)](https://ghfast.top/https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk) | [官方 Release](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk) |
+| 🍎 **macOS 苹果电脑** | Apple Silicon (M1/M2/M3/M4) | [🚀 点击极速下载 (.dmg)](https://ghfast.top/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-arm64.dmg) | [官方 Release](https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-arm64.dmg) |
+| 🍎 **macOS 苹果电脑** | Intel 处理器版 | [🚀 点击极速下载 (.dmg)](https://ghfast.top/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-x64.dmg) | [官方 Release](https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.8/MusicFree-0.0.8-darwin-x64.dmg) |
+
+---
+
+## 🚀 方式一：音源插件一键网络安装（强烈推荐 · 复制即装，无需下载）
 
 无需下载任何 `.js` 文件，复制下方任意一条链接，即可在播放器内一键秒装所有插件：
 
