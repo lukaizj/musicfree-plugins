@@ -1,0 +1,19 @@
+{
+  "$schema": "https://musicfree.upup.fun/schemas/plugin-subscribe.json",
+  "plugins": [
+    {
+      "name": "QQ音乐 (周杰伦全曲库稳定版)",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/lukaizj/musicfree-plugins/main/qq.js",
+      "version": "1.1.0",
+      "author": "奇点造物所",
+      "description": "内置智能音源解析，周杰伦全曲库秒播，支持官方榜单与热门歌单"
+    },
+    {
+      "name": "网易云音乐 (全曲库稳定版)",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/lukaizj/musicfree-plugins/main/netease.js",
+      "version": "1.1.0",
+      "author": "奇点造物所",
+      "description": "支持官方64个榜单、全标签热门歌单及跨平台智能解析"
+    }
+  ]
+}
